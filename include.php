@@ -1,7 +1,7 @@
 <?php
 
 // ---- SETUP ----
-$packageName = "wonthave";
+$packageName = "wanthave";
 // ---------------
 
 use \MSergeev\Core\Lib\Config;

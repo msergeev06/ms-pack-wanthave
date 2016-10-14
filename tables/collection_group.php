@@ -1,6 +1,6 @@
 <?php
 
-namespace MSergeev\Packages\Wonthave\Tables;
+namespace MSergeev\Packages\Wanthave\Tables;
 
 use MSergeev\Core\Lib\DataManager;
 use MSergeev\Core\Entity;
